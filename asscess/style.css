@@ -1,0 +1,52 @@
+
+.part4-title{
+	margin-top: 40px;
+}
+.part4-title h1{
+	text-align: center;
+	font-size: 40px;
+}
+hr{
+	margin-top: 30px;
+	width: 5%;
+	margin-bottom: 50px;
+	height: 2px;
+	background-color: #ffa500;
+	border: none;
+}
+.part4-infor{
+	justify-content: center;
+}
+.part4-image img{
+	height: 400px;
+	margin-right: 100px;
+}
+.part4-image{
+	padding-left: 270px;
+}
+.part4-content{
+	display: flex;
+	justify-content: center;
+}
+.purport{
+	display: flex;
+}
+.part4-list p{
+	width: 60%;
+}
+.content-meaning{
+	font-size: 22.4px;
+	color: black;
+	padding-bottom: 70px;
+}
+.part4-icon{
+	font-size: 45px;
+	color: #ffa500;
+	padding-right: 20px;
+}
+.part4-install{
+	margin-top: -5px;
+}
+.part4-button{
+	height: 50px;
+}
