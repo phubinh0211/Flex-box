@@ -1,0 +1,10 @@
+.part3{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.part3 img{
+    
+    height: 252px;
+
+}
