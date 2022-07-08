@@ -1,0 +1,58 @@
+.part1{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./image/picture/hero.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}   
+a{
+    text-decoration: none;
+}
+.part1-taskbar{
+    padding-left: 175px;
+    padding-top: 60px;
+}
+.part1-logo{
+    height: 75px;
+    margin-right: 150px;
+}
+.part1-menu{
+    font-size: 20px;
+    padding-right: 70px;
+    color: white;
+}
+.part1-taskbar{
+    display: flex;
+}
+.part1-menu-taskbar{
+    padding-top: 35px;
+}
+.part1-title{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 13%;
+}
+.part1-title h1{
+    color: white;
+    font-size: 50px;
+}
+.part1-link{
+    margin-top: 30px;
+}
+.part1-button{
+    padding: 8px 24px;
+    background-color: #ffa500;
+    border-radius: 50px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin-right: 20px;
+
+}
+.part1-button.part1-non-active{
+    color: #ffa500;
+    background-color: transparent;
+    border: 1px solid #ffa500;
+}
