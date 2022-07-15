@@ -1,0 +1,10 @@
+.part6-customers img{
+    margin-top: 60px;
+    margin-left: 230px;
+    /* margin-right: 200px; */
+    border-radius: 100px;
+    height: 30px;
+}
+.part6-content{
+    display: flex;
+}

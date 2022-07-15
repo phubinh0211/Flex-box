@@ -1,0 +1,46 @@
+.part2-title{
+    text-align: center;
+    padding-top: 50px;
+}
+.part2-title h1{
+    font-size: 38px;
+    padding-bottom: 30px;
+}
+.part2-title hr{
+    width: 8%;
+    height: 2px;
+    background-color: #ffa500;
+    border: none;
+    margin-bottom: 30px;
+}
+.part2-title h2{
+    font-size: 20px;
+}
+.part2-sentence{
+    margin-left: -110px;
+    padding-top: 5px;
+}
+.part2-content{
+    display: flex;
+    margin-top: 50px;
+
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.part2-icon{
+    font-size: 50px;
+    padding-bottom: 20px;
+    color: #ffa500;
+}
+.part2-summary{
+    padding-bottom: 10px;
+    font-size: 21px;
+}
+.part2-mean{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+.part2-contents{
+    width: 25%;
+    margin-right: 10px;
+}
